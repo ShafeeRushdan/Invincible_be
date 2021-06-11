@@ -1,0 +1,2 @@
+module UserFightersHelper
+end
